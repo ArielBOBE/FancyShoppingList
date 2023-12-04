@@ -1,4 +1,4 @@
-class FoodItem:
+class FoodItemAPD:
     def __init__(self, name, amount):
         self.__name = name
         self.__amount = amount
